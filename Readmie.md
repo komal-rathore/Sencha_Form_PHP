@@ -7,3 +7,5 @@ http://docs.sencha.com/touch/2.3.1/#!/guide/xhr2_guide
 3. Git link of Source code
 https://github.com/senchalabs/ajax_demos
 
+4. Form field Validation 
+http://druckit.wordpress.com/2013/08/01/about-sencha-touch-form-field-validation/
